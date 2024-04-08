@@ -42,3 +42,11 @@ sudo apt install gcc-avr
 ```
 
 > - Take note that the library headers might be placed here `/usr/lib/avr/include`.
+
+> - Run the command below to execute the commands specified in `Makefile`.
+
+```bash
+# Change directory to the root of the project.
+# Execute the make file and upload in the Arduino microcontroller.
+make
+```
