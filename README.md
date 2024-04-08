@@ -23,8 +23,8 @@ https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/b9a7a60c-509
 
 > - This works well in Linux based system.
 
-> - Install the necessary tools inorder to directly interact
-    with Atmel AVR Microcontroller.
+> - Install the necessary tools inorder to interact
+    with Arduino without the IDE.
 
 ```bash
 # Standard library for Atmel AVR devices.
