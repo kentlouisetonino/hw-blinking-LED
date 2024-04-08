@@ -11,8 +11,8 @@ int main(void) {
     // Set the pin 3 (D3) to HIGH.
     PORTD |= (1 << PORTD3);
 
-    // Light the LED for 10 seconds.
-    _delay_ms(10000);
+    // Light the LED for 2 seconds.
+    _delay_ms(2000);
 
     // Set pin 3 (D3) to LOW.
     PORTD &= ~(1 << PORTD3);

@@ -5,3 +5,14 @@
 > - Based on the current code, the LED will light up for 10
     seconds, then will turn off for 1 second, and will light
     again. This is an infinite cycle.
+
+<br />
+<br />
+
+
+
+### Local Development
+#
+
+> - Install the necessary tools inorder to directly interact
+    with 
