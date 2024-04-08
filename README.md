@@ -47,6 +47,6 @@ sudo apt install gcc-avr
 
 ```bash
 # Change directory to the root of the project.
-# Execute the make file and upload in the Arduino microcontroller.
+# Execute the MakeFile and upload in the Arduino microcontroller.
 make
 ```
