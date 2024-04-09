@@ -3,7 +3,7 @@
 
 <br />
 
-https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/b9a7a60c-509d-4fc0-8cc4-73c9fe9fa5e4
+![HW-BlinkingLED Testing](./docs/video-hw-blinking-LED-testing.mp4)
 
 <br />
 
@@ -23,7 +23,7 @@ https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/b9a7a60c-509
 
 <br />
 
-![Makefile Process](./images/makefile-process.png)
+![Makefile Process](./docs/video-makefile-process.png)
 
 <br />
 <br />
