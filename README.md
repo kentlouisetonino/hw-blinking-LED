@@ -23,7 +23,7 @@
 
 <br />
 
-![Makefile Process](./docs/video-makefile-process.png)
+![Makefile Process](./docs/images-makefile-process.png)
 
 <br />
 <br />
