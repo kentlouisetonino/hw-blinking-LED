@@ -19,7 +19,6 @@ https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/bdaa7ed7-b38
 
 <br />
 
-![Makefile Process](./docs/image-makefile-process.png)
 
 <br />
 
