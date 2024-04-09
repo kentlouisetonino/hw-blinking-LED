@@ -18,6 +18,18 @@ https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/b9a7a60c-509
 
 
 
+### System Design
+#
+
+<br />
+
+![Makefile Process](./images/makefile-process.png)
+
+<br />
+<br />
+
+
+
 ### Local Development
 #
 
