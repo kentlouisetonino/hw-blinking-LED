@@ -23,7 +23,7 @@
 
 <br />
 
-![Makefile Process](./docs/images-makefile-process.png)
+![Makefile Process](./docs/image-makefile-process.png)
 
 <br />
 <br />
