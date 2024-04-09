@@ -3,7 +3,7 @@
 
 <br />
 
-![HW-BlinkingLED Testing](./docs/video-hw-blinking-LED-testing.mp4)
+https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/bdaa7ed7-b38d-40ff-909b-63efa0d9c825
 
 <br />
 
