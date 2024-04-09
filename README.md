@@ -64,3 +64,18 @@ sudo apt install gcc-avr
 # Execute the MakeFile and upload in the Arduino microcontroller.
 make
 ```
+
+<br />
+<br />
+
+
+
+### Electronic Components
+#
+
+```plaintext
+Arduino UNO R3 Microcontroller (1)
+LED Red 5mm (1)
+Resistor 220 ohm (1)
+Male to Male Jumper Wire (2)
+```
