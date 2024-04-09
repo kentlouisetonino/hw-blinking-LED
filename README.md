@@ -9,10 +9,6 @@ https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/bdaa7ed7-b38
 
 > - A blinking LED Arduino project written in C language.
 
-> - Based on the current code, the LED will light up for 2
-    seconds, then will turn off for 1 second, and will light
-    again. This is an infinite cycle process.
-
 <br />
 <br />
 
