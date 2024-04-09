@@ -70,12 +70,28 @@ make
 
 
 
-### Electronic Components
+### Requirements
 #
 
+> - Electronic components and board requirements.
+
 ```plaintext
-Arduino UNO R3 Microcontroller (1)
-LED Red 5mm (1)
-Resistor 220 ohm (1)
-Male to Male Jumper Wire (2)
+Arduino UNO R3 Microcontroller (x1)
+USB 2.0 Cable Type A/B (x1)
+LED Red 5mm (x1)
+Resistor 220 ohm (x1)
+Male to Male Jumper Wire (x2)
+```
+
+> - Software requirements.
+
+```plaintext
+Linux Ubuntu 22.05
+Gnome Terminal
+Neovim / VSCode
+GCC / CLang (For Text Editor Support and Autocomplete)
+avr-libc
+avrdude
+binutils-avr
+gcc-avr
 ```
