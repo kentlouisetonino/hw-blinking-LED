@@ -78,6 +78,7 @@ make
 ```plaintext
 Arduino UNO R3 Microcontroller (x1)
 USB 2.0 Cable Type A/B (x1)
+Breadboard (x1)
 LED Red 5mm (x1)
 Resistor 220 ohm (x1)
 Male to Male Jumper Wire (x2)
