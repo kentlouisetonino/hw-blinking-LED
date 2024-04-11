@@ -87,7 +87,7 @@ Male to Male Jumper Wire (x2)
 > - Software used in this project.
 
 ```plaintext
-Linux Ubuntu 22.05
+Linux Ubuntu 22.04
 Gnome Terminal
 Neovim / VSCode
 GCC / CLang (For Text Editor Support and Autocomplete)
