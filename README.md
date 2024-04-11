@@ -7,7 +7,7 @@ https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/bdaa7ed7-b38
 
 <br />
 
-> - A blinking LED Arduino project written in C language.
+> - A blinking LED Arduino UNO R3 project using AVR libraries and C directly.
 
 <br />
 <br />
@@ -76,7 +76,7 @@ make
 > - Electronic components and board requirements.
 
 ```plaintext
-Arduino UNO R3 Microcontroller (x1)
+Arduino UNO R3 (x1)
 USB 2.0 Cable Type A/B (x1)
 Breadboard (x1)
 LED Red 5mm (x1)
