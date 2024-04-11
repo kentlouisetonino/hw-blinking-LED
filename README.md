@@ -73,7 +73,7 @@ make
 ### Requirements
 #
 
-> - Electronic components and board requirements.
+> - Electronic components and board used in this project.
 
 ```plaintext
 Arduino UNO R3 (x1)
@@ -84,7 +84,7 @@ Resistor 220 ohm (x1)
 Male to Male Jumper Wire (x2)
 ```
 
-> - Software requirements.
+> - Software used in this project.
 
 ```plaintext
 Linux Ubuntu 22.05
