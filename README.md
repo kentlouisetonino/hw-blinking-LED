@@ -1,5 +1,4 @@
-### Description
-#
+## $\textnormal{Description}$
 
 <br />
 
@@ -11,11 +10,11 @@ https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/bdaa7ed7-b38
 
 <br />
 <br />
+<br />
 
 
 
-### System Design
-#
+## $\textnormal{System Design}$
 
 <br />
 
@@ -26,14 +25,12 @@ https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/bdaa7ed7-b38
 ![Breadboarding](./docs/image-breadboarding.png)
 
 <br />
-
 <br />
 <br />
 
 
 
-### Local Development
-#
+## $\textnormal{Local Development}$
 
 > - This works well in Linux based system.
 
@@ -67,11 +64,10 @@ make
 
 <br />
 <br />
+<br />
 
 
-
-### Requirements
-#
+## $\textnormal{Requirements}$
 
 > - Electronic components and board used in this project.
 
