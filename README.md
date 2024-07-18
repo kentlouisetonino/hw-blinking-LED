@@ -1,4 +1,4 @@
-## $\textnormal{Description}$
+## $\textnormal{HW - Blinking LED}$
 
 <br />
 
