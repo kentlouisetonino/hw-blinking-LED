@@ -1,4 +1,4 @@
-## $\textnormal{HW - Blinking LED}$
+## HW - Blinking LED
 
 <br />
 
@@ -6,7 +6,11 @@ https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/bdaa7ed7-b38
 
 <br />
 
-> - A blinking LED project using Uno R3, AVR LibC and C language.
+> - A blinking LED project using ATmega328P Microcontroller, <br />
+    AVR Libaries and C language.
+
+> - In here, I did not use the provided Arduino IDE and its <br />
+    `.ino` file or sketches.
 
 <br />
 <br />
@@ -14,7 +18,7 @@ https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/bdaa7ed7-b38
 
 
 
-## $\textnormal{System Design}$
+## System Design
 
 <br />
 
@@ -30,7 +34,7 @@ https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/bdaa7ed7-b38
 
 
 
-## $\textnormal{Local Development}$
+## Local Development
 
 > - This works well in Linux based system.
 
@@ -67,7 +71,7 @@ make
 <br />
 
 
-## $\textnormal{Requirements}$
+## Requirements
 
 > - Electronic components and board used in this project.
 
