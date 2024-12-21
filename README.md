@@ -1,11 +1,5 @@
 ## HW - Blinking LED
 
-<br />
-
-https://github.com/kentlouisetonino/hw-blinking-LED/assets/69438999/bdaa7ed7-b38d-40ff-909b-63efa0d9c825
-
-<br />
-
 > - A blinking LED project using ATmega328P Microcontroller, <br />
     AVR Libaries and C language.
 
